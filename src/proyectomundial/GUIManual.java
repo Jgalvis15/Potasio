@@ -27,6 +27,7 @@ import proyectomundial.model.Seleccion;
 public class GUIManual extends JFrame {
 
     SeleccionDAO seleccionDAO = new SeleccionDAO();
+    // primer cambio
     
     
     // Matrix que permite almancenar la información de las selecciones futbol cargadas
